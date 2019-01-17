@@ -1,0 +1,25 @@
+{
+  "name": "react-cancelable-promise-hook",
+  "version": "1.0.0",
+  "description": "Simple promise wrapper to avoid memory leaks. Prevent performing state chenges on an unmounted component during an async operation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajeshnaroth/react-cancelable-promise-hook.git"
+  },
+  "keywords": [
+    "react",
+    "promise",
+    "cancelable",
+    "hook"
+  ],
+  "author": "Rajesh Naroth",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rajeshnaroth/react-cancelable-promise-hook/issues"
+  },
+  "homepage": "https://github.com/rajeshnaroth/react-cancelable-promise-hook#readme"
+}
